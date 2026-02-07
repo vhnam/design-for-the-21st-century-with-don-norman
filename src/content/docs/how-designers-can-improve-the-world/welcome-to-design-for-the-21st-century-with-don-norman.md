@@ -2,91 +2,125 @@
 title: Welcome to Design for the 21st Century with Don Norman
 ---
 
-## Course Overview
+## Course Purpose and Vision
 
-### Purpose of the Course
+### Why Design Matters Today
 
-- Human-centered design: A design approach focused on improving lives by addressing real human needs within complex systems.
-- Global challenges: Large-scale issues such as education, healthcare, sustainability, inequality, and governance.
-- Designer’s role: Designers act as change agents who work on systems, not just isolated products.
+- Design as action: Designers do not just analyze problems; they intervene and change the world.
+- Scope of challenges:
+  - Political systems
+  - Economic inequality
+  - Education, healthcare, clean water, sanitation
+- Shift in focus: From designing small, isolated artifacts to designing complex systems and societal structures.
 
-### Key Learning Goals
+### Evolution of Design Thinking
 
-- Understand how design can improve the world.
-- Apply human-centered design to complex, systemic problems.
-- Develop 21st-century design skills that increase social impact and influence.
+- Human-centered design (HCD): Focuses on people, their needs, activities, and communities.
+- Humanity-centered design:
+  - Extends beyond individuals to societies and global impact.
+  - Acknowledges environmental responsibility as inseparable from human responsibility.
+- Pragmatic approach:
+  - Problems must be large enough to matter.
+  - Solutions must be small enough to be actionable.
 
-## Instructor Background
+## Instructor Perspective
 
-### Don Norman
+### Don Norman’s Journey
 
-- User experience (UX): Term coined by Don Norman to describe holistic experience with products and systems.
-- Expertise areas:
-  - Cognitive psychology
-  - Human-computer interaction
-  - Artificial intelligence
-- Professional highlights:
-  - Former VP of Advanced Technology Group at Apple
-  - Co-founder of Nielsen Norman Group
-- Influential publications:
-  - _The Design of Everyday Things_
-  - _Living with Complexity_
+- Background:
+  - Early career focused on technology and devices.
+  - Later shift toward concern for global and societal issues.
+- Core belief:
+  - Design is a key mechanism for addressing the world’s most pressing problems.
+- Long-term goal:
+  - Collaborate with others to reform broken systems rather than working in isolation.
 
-## Design Philosophy
+## Critique of Current Design Practice
 
-### From Human-Centered to Humanity-Centered Design
+### Top-Down Design Problems
 
-- Human-centered design: Focuses on individual users and their needs.
-- Humanity-centered design: Expands focus to societies, systems, and global consequences.
-- Systems thinking: Treats social, political, economic, and environmental factors as interconnected.
+- Expert-driven models:
+  - External experts study communities and propose solutions.
+  - Communities are positioned as passive recipients.
+- Ethical concern:
+  - This approach reinforces power imbalances and design “dictatorship.”
 
-### Critique of Current Design Practices
+### Monoculture in Design
 
-- Monoculture risk: Designers trained in similar institutions may think alike, reducing resilience.
-- Top-down design: Expert-driven solutions imposed on communities can be ineffective or unethical.
-- Evidence-based design: Decisions should rely on data and research rather than anecdotes or trends.
+- Monoculture definition:
+  - Designers trained in the same institutions, reading the same books, attending the same conferences.
+- Risks:
+  - Reduced resilience and adaptability.
+  - Lack of diverse cultural perspectives.
+- Analogy:
+  - Like agriculture monocultures, efficiency increases vulnerability to collapse.
+- Design implication:
+  - Diversity of thought and cultural context strengthens systems.
+
+## Systems-Level Challenges
+
+### Economic Systems
+
+- Original idea:
+  - Adam Smith’s _The Wealth of Nations_ described collective intelligence through the “invisible hand.”
+- Current reality:
+  - Systems corrupted by collusion and self-interest.
+  - Wealth increasingly concentrated among the already wealthy.
+- Outcome:
+  - Extreme inequality in access to resources.
+
+### Political and Information Systems
+
+- Political systems:
+  - Increasingly fragile and damaged.
+- Internet as infrastructure:
+  - Shift from information-sharing to misinformation and manipulation.
+- Decision-making issue:
+  - Overreliance on anecdotes, rumors, and falsehoods.
+  - Lack of evidence-based thinking.
 
 ## Course Structure
 
-### Lesson Progression
+### Learning Progression
 
-1. Lesson 1: Why designers are uniquely positioned to address global challenges.
-2. Lesson 2: Applying human-centered design to 21st-century problems.
-3. Lesson 3: Developing new skills, influence, and better measures of success.
+1. Lesson 1: Why designers are uniquely positioned to address complex global problems.
+2. Lesson 2: Applying human-centered design to 21st-century challenges.
+3. Lesson 3: Developing new skills, influence, and better definitions of success.
 
-### Core Concepts
+### Key Concepts
 
 - Wicked problems: Problems with no single solution and many interdependencies.
-- Socio-technical systems: Systems involving people, technology, institutions, and culture.
-- Muddling through: Solving small parts of a problem to gradually address root causes.
+- Socio-technical systems: Interactions between people, technology, institutions, and culture.
+- Muddling through:
+  - Making incremental progress by addressing small parts of root problems.
 
 ## Build Your Portfolio Project
 
-### Project Overview
+### Project Goal
 
-- Goal: Apply human-centered design to improve a local community issue.
-- Outcome: A documented case study suitable for a professional portfolio.
-- Participation: Optional but strongly recommended.
+- Apply human- or humanity-centered design to a real local problem.
+- Produce a documented case study suitable for a professional portfolio.
 
 ### Project Options
 
 #### Option 1 — Focused
 
 1. Focus: UN Sustainable Development Goal #4 — Quality Education.
-2. Question: How can design education in your community meet 21st-century needs?
+2. Core question:
+   - How can design education in your community meet the needs of the 21st century?
 3. Approach:
-   - Collaborate with local stakeholders.
-   - Identify root causes using system thinking.
+   - Work with local stakeholders.
+   - Identify root causes using systems thinking.
    - Implement a small, testable intervention.
 
 #### Option 2 — Adventurous
 
-1. Select: Any of the 17 UN Sustainable Development Goals.
-2. Define: Your own design question based on stakeholder conversations.
+1. Select one of the 17 UN Sustainable Development Goals.
+2. Define a design question grounded in local stakeholder insights.
 3. Approach:
-   - Research through interviews and observation.
-   - Identify root problems within the system.
-   - Prototype and test a small intervention.
+   - Interviews and field observation.
+   - Systems-level problem framing.
+   - Small-scale experimentation and testing.
 
 ### Design Methods
 
@@ -95,25 +129,31 @@ title: Welcome to Design for the 21st Century with Don Norman
 - Local media research
 - Collaboration with local design communities
 
-### Documentation Requirements
+### Documentation and Sharing
 
-- Process documentation: Notes, photos, sketches, and reflections.
-- Case study: Clear narrative of problem, process, insights, and outcomes.
-- Sharing:
-  - Course discussions
-  - Local IxDF chapters
+- Document:
+  - Process, insights, and iterations.
+- Share:
+  - Course discussions for feedback.
+  - Local IxDF chapters for community learning.
 
-## Certification and Learning Community
+## Learning Community and Outcomes
 
-### Certificate
+### Peer Learning
 
-- Verifiable and industry-recognized course certificate.
+- Shared discussions to exchange feedback and inspiration.
+- Collective intelligence through diverse experiences.
+
+### Certification
+
+- Industry-recognized, verifiable course certificate.
 - Usable on:
   - Resume
   - LinkedIn
   - Personal website
 
-### Peer Learning
+## References
 
-- Community discussions for feedback and inspiration.
-- Knowledge sharing among course participants.
+- IxDF, [Design Thinking: The Ultimate Guide](https://www.interaction-design.org/courses/design-thinking-the-ultimate-guide)
+- Don Norman, [The Design of Everyday Things](https://www.hachettebookgroup.com/titles/don-norman/the-design-of-everyday-things/9780465072996/?lens=basic-books)
+- Nielsen Norman Group, [Living With Complexity](https://www.nngroup.com/books/living-with-complexity/)
