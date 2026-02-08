@@ -32,6 +32,11 @@ export default defineConfig({
                 "Why We've Evolved from User-Centered Design to People-, Human- and Humanity-Centered Design",
               slug: "how-designers-can-improve-the-world/why-weve-evolved-from-user-centered-design-to-people-human-and-humanity-centered-design",
             },
+            {
+              label:
+                "Don Norman: Why Designers (Not Engineers or Scientists) Will Solve the UN's 17 Biggest Problems",
+              slug: "how-designers-can-improve-the-world/don-norman-why-designers-not-engineers-or-scientists-will-solve-the-uns-17-biggest-problems",
+            },
           ],
         },
       ],
