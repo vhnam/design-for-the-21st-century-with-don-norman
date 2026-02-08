@@ -22,6 +22,11 @@ export default defineConfig({
               label: "Welcome to Design for the 21st Century with Don Norman",
               slug: "how-designers-can-improve-the-world/welcome-to-design-for-the-21st-century-with-don-norman",
             },
+            {
+              label:
+                "21st Century Design: Let's Use Human-Centered Design to Solve Major Global Challenges",
+              slug: "how-designers-can-improve-the-world/21st-century-design-lets-use-human-centered-design-to-solve-major-global-challenges",
+            },
           ],
         },
       ],
