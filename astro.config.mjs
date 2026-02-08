@@ -27,6 +27,11 @@ export default defineConfig({
                 "21st Century Design: Let's Use Human-Centered Design to Solve Major Global Challenges",
               slug: "how-designers-can-improve-the-world/21st-century-design-lets-use-human-centered-design-to-solve-major-global-challenges",
             },
+            {
+              label:
+                "Why We've Evolved from User-Centered Design to People-, Human- and Humanity-Centered Design",
+              slug: "how-designers-can-improve-the-world/why-weve-evolved-from-user-centered-design-to-people-human-and-humanity-centered-design",
+            },
           ],
         },
       ],
