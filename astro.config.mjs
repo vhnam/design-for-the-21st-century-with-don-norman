@@ -37,6 +37,10 @@ export default defineConfig({
                 "Don Norman: Why Designers (Not Engineers or Scientists) Will Solve the UN's 17 Biggest Problems",
               slug: "how-designers-can-improve-the-world/don-norman-why-designers-not-engineers-or-scientists-will-solve-the-uns-17-biggest-problems",
             },
+            {
+              label: "Let's Democratize Design",
+              slug: "how-designers-can-improve-the-world/lets-democratize-design",
+            },
           ],
         },
       ],
