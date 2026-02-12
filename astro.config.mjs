@@ -46,6 +46,10 @@ export default defineConfig({
                 "What is the Difference Between Wicked Problems and Complex Socio-Technical Systems?",
               slug: "how-designers-can-improve-the-world/what-is-the-difference-between-wicked-problems-and-complex-socio-technical-systems",
             },
+            {
+              label: "Lesson 1 Recap",
+              slug: "how-designers-can-improve-the-world/recap",
+            },
           ],
         },
       ],
