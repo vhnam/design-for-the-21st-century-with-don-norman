@@ -41,6 +41,11 @@ export default defineConfig({
               label: "Let's Democratize Design",
               slug: "how-designers-can-improve-the-world/lets-democratize-design",
             },
+            {
+              label:
+                "What is the Difference Between Wicked Problems and Complex Socio-Technical Systems?",
+              slug: "how-designers-can-improve-the-world/what-is-the-difference-between-wicked-problems-and-complex-socio-technical-systems",
+            },
           ],
         },
       ],

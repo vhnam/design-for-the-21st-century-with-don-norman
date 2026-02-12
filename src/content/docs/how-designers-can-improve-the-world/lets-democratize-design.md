@@ -1,5 +1,5 @@
 ---
-tile: Let’s Democratize Design
+title: Let’s Democratize Design
 ---
 
 Design today is often driven by Western, expert-led approaches where outsiders arrive, diagnose problems, and impose solutions. Don Norman argues this model is **arrogant, patronizing, and ineffective** because it ignores the people who live with the problems every day.
